@@ -1,0 +1,74 @@
+body{
+    font-family: 'PT Serif', serif;
+    background-color: rgb(240,240,240);
+}
+.img-fluid{
+    width: 100%;
+    height: 20%;
+}
+.logo-navbar{
+    font-size: 100%;
+    padding: 0;
+}
+.navbar{
+    height: 100px;
+    
+}
+.nav-item
+{
+    font-size: 22px;
+    font-weight: 600;
+    color: black;
+    padding: 15px;
+}
+.navbar-brand {
+    margin-left: 30px;
+  background-color: transparent;
+}
+.grid-wide h2
+{
+    text-transform: uppercase;
+    word-spacing: 15px;
+    font-size: 40px;
+    font-weight: 600;
+    background-color: rgb(29, 141, 135);
+    color: white;
+    font-family: 'Coustard', serif;
+}
+.footer{
+    background-color:yellow;
+  height: 180px;
+    
+}
+.card-title
+{
+    font-family: 'Noto Serif', serif;
+    color: #0F52BA;
+}
+.card-text{
+    font-family: 'Kadwa', serif;
+    letter-spacing: 1px;
+}
+.btn {
+   font-size: 1.2rem;
+   
+}
+.footer ul{
+    list-style-type: none;
+}
+.container {
+    text-align: center;
+    color: #F6A9A9;
+     text-shadow: 2px 2px 4px red;
+  }
+.centered {
+    width: 70%;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    text-transform: uppercase;
+    font-family: 'Acme', sans-serif;
+    letter-spacing: 3px;
+  }
